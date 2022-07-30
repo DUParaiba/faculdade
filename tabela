@@ -1,0 +1,33 @@
+<table border=1>
+  <tr>
+    
+    <th>cores</th>
+    <th>codigos em hexadecimal</th>
+  </tr>
+  
+  <tr>
+    <td bgcolor="yellow">  yellow</td>
+    <td> =ffff00</td >
+    
+  </tr>
+  
+  <tr>
+   <td bgcolor="green"> green </td>
+    <td>=00ff00</td>
+    </tr>
+    
+    <tr>
+      <td bgcolor="blue"> blue </td>
+      <td>=0000ff </td>
+      </tr>
+      
+      <tr>
+        <td bgcolor="cyan">cyan</td>
+        <td>=00ffff</td>
+        
+        </tr>
+        
+        <tr>
+    <td bgcolor="skyblue1">skyblue</td>
+        <td>=87ceeb</td>
+        </tr>
